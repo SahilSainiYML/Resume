@@ -63,8 +63,22 @@ Erase data beyond recovery with a number of options to choose from including DOD
 
 ## Skills
 React, JavaScript, HTML, CSS, Swift, Objective-C, SQL.
-Core Animation, Core Graphics, Core Data, UIKit  
+Core Animation, Core Graphics, Core Data, UIKit.  
+<br>
 
+
+<br>
+
+<br>
+
+<br>
+
+
+<br>
+
+<br>
+
+<br>
 <!-- ### Footer
 
 Last updated: January 2024 -->
