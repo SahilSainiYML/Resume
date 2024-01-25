@@ -4,6 +4,10 @@ title: Sahil's CV
 ---
 # Sahil Saini
 Software Developer
+<div id="webaddress">
+<a href="[LinkedIn](https://www.linkedin.com/in/sahilsaini51/)">LinkedIn</a>
+| <a href="[GitHub](https://github.com/SahilSainiYML)">GitHub</a>
+</div>
 
 ## Profile
 
