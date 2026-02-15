@@ -11,13 +11,13 @@ Software Developer
 
 ## Profile
 
-Senior-level software developer with 10 years industry experience working in React, JavaScript, Swift, Objective-C. Creative, independent, motivated team worker with experience managing small teams. Analytical thinker with strong trouble-shooting, problem-solving, and debugging skills. Proven record delivering applications with great user experience and a high degree of polish.
+Senior-level software developer with 12+ years industry experience working in React, JavaScript, Swift, Objective-C, SwiftUI. Creative, independent, motivated team worker with experience managing small teams. Analytical thinker with strong trouble-shooting, problem-solving, and debugging skills. Proven record delivering applications with great user experience and a high degree of polish.
 
 
 ## Experience
 
 **Lead Engineer, Y MEDIA LABS (Aug 2022 – Present)**  
-Evaluate customer requirements, for banking app that has a user base of more than a million users. Securing user data and giving user best UX is core of the application.
+Evaluate customer requirements, for banking app that has a user base of more than two million users with App Store rating 4.8. Securing user data and giving user best UX is core of the application.
 Led rapidly prototype iOS applications. Worked on opensource projects to increase productivity for many projects. Design and develop applications like [YCalendarPicker](https://github.com/codeandtheory/ycalendarpicker-ios/), [YStepper](https://github.com/codeandtheory/ystepper-ios) that supports UIKit as well as SwiftUI. Lead team in supporting offline storage for CoreData in [YPersistence](https://github.com/codeandtheory/ypersistence-ios) and achieved a code coverage of over 90% in all open source projects.
 
 **Lead Engineer, Sopra Steria Pvt. Ltd (Oct 2018 – Aug 2022)**  
